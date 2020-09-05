@@ -1,6 +1,4 @@
 ## Hi there 👋 
-![](github.png)
-
 
 ### Welcome to my GitHub page!
 
