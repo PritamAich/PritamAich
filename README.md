@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+![](github_icon.png)
+
 ### Welcome to my GitHub page!
 
 #### I'm a Student, Undergraduate, Passionate about Data Science, specifically Machine Learning and Deep learning!
