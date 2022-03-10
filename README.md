@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub page!
 
-#### I'm currently a fresher working as a software engineer for a reputed MNC with basic knowledge about front-end technologies and a bit of backend as well. 
+#### I'm currently a fresher working as a software engineer for a reputed MNC with basic knowledge in some frontend technologies and a bit of backend as well. 
 
 Connect with me on these platforms:
 
