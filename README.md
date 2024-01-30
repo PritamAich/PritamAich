@@ -3,7 +3,9 @@
 
 ### Welcome to my GitHub page!
 
-#### I'm currently a fresher working as a software engineer for a reputed MNC with basic knowledge in some frontend technologies and a bit of backend as well. 
+#### Data Analyst with 2 years of experience in SQL, Excel, Python. Proficient in data visualization, reporting, and analysis using Power BI.
+Skilled in interpreting business needs to design reports meeting end-user expectations. Excel in using Microsoft SQL Server for efficient
+data management.
 
 Connect with me on these platforms:
 
