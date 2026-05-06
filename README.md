@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub page!
 
-#### Data Analyst with 2 years of experience in SQL, Excel, Python. Proficient in data visualization, reporting, and analysis using Power BI.
+#### Data Analyst with 4 years of experience in SQL, Excel, Python. Proficient in data visualization, reporting, and analysis using Power BI.
 Skilled in interpreting business needs to design reports meeting end-user expectations. Excel in using Microsoft SQL Server for efficient
 data management.
 
